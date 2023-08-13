@@ -1,7 +1,3 @@
-Absolutely, I can help you create a stylish and professional profile README for GitHub. Here's a sample template for your profile README:
-
----
-
 <p align="center">
   <img src="https://github.com/PranshuRaj1.png" alt="Pranshu Raj" width="200"/>
 </p>
