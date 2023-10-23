@@ -10,6 +10,8 @@
   <a href="https://twitter.com/RajPranshu12"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@RajPranshu12-blue?style=flat-square&logo=twitter"></a>
 </p>
 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/Rpranshu=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 ---
 
 🚀 About Me:
