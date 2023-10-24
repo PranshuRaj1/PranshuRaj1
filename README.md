@@ -11,7 +11,6 @@
 </p>
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/Rpranshu=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 ---
 
 🚀 About Me:
