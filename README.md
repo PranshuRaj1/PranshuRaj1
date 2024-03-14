@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/PranshuRaj1.png" alt="Pranshu Raj" width="200"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Pranshu Raj</h1>
 <h3 align="center">A passionate learner in Web Development and Data Structures & Algorithms.</h3>
