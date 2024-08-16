@@ -39,7 +39,7 @@ I'm a self-motivated developer currently diving deep into the world of Web Devel
 ---
 
 # 📊 LeetCode:
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20Problems-brightgreen)](https://leetcode.com/Rpranshu/)
+<p align="center">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/Rpranshu?theme=dark,unicorn" alt="sharmakavya1002"/></p>
 
 
 ---
