@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranshuraj"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pranshu%20Raj-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/RajPranshu12"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@RajPranshu12-blue?style=flat-square&logo=twitter"></a>
+
 </p>
 
 
