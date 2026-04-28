@@ -1,54 +1,62 @@
+# Pranshu Raj
 
+Full-stack engineer who ships production systems. I build at the intersection of real-time infrastructure and AI tooling — WebRTC media servers, LLM orchestration pipelines, high-concurrency WebSocket backends.
 
-<h1 align="center">Hi, I'm Pranshu Raj</h1>
-<h3 align="center">A passionate learner in Web Development and Data Structures & Algorithms.</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranshuraj"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pranshu%20Raj-blue?style=flat-square&logo=linkedin"></a>
-
-</p>
-
+Currently finishing B.Tech CSE at VIT (2026). Open to roles in product engineering.
 
 ---
 
-🚀 About Me:
+## What I've built
 
-I'm a self-motivated developer currently diving deep into the world of Web Development and honing my skills in Data Structures & Algorithms. I'm passionate about building things that live on the internet, whether it's a website, an application, or a helpful code snippet.
+### [NextFlow](https://github.com/PranshuRaj1/nextflow) — LLM Workflow Builder
+Visual node-based workflow engine for chaining LLM tasks. Built with React Flow, Trigger.dev (background job orchestration), Google Gemini, Clerk auth, and Neon/Prisma. Wave-based execution engine with topological sort, per-node error handling, and retry logic. Full-stack Next.js + TypeScript.
 
-- 🔭 I’m currently working on enhancing my skills in Full Stack Web Development.
-- 🌱 I’m currently learning JavaScript frameworks and advanced algorithms.
-- 🎯 Goals: Contribute more to open-source projects and create valuable resources for the community.
-- ⚡ Fun fact: I enjoy exploring new technologies .
+### [Connected](https://github.com/PranshuRaj1/connected) — Multi-party Video Calls
+Production-grade WebRTC video application using Mediasoup's SFU architecture. Handles multiple concurrent WebRTC producer/consumer transports server-side to minimize bandwidth. Built with Next.js, Socket.IO, Redis, and Node.js.
 
----
-<center><h1>Language and Tools:<h1/><center/>
+### [QuizVerse](https://quizverse-sigma.vercel.app/) — Real-time Quiz Platform
+WebSocket server architected to support 100 concurrent players per room with live chat, score updates, and leaderboards. Gemini API integration for on-demand AI question generation. Auth (Google/Guest), two gameplay modes, full responsive UI. Next.js + TypeScript + Prisma.
 
-
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![Typescript](https://img.shields.io/badge/typesript-%23ED8B00.svg?style=flat&logo=typescript&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+### [Eazze](https://www.npmjs.com/package/eazze) — NPM CLI Tool
+`npx eazze` scaffolds a Next.js + Tailwind project with Shadcn, Chakra, or PrimeReact in under 60 seconds. Eliminated 10+ manual setup steps. **450+ weekly downloads. 2,000+ cumulative downloads.**
 
 ---
 
-# 📊 GitHub Stats:
-![Pranshu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranshuRaj1&theme=tokyonight&border_radius=7.6)
+## Stack
+
+**Languages** — TypeScript, JavaScript, Java, SQL  
+**Frontend** — Next.js, React, React Flow, Tailwind CSS, ShadCN/ui  
+**Backend** — Node.js, WebSocket, Socket.IO, Redis, Prisma, PostgreSQL  
+**Infrastructure** — Mediasoup (WebRTC SFU), Trigger.dev, Clerk, Neon, Vercel  
+**AI/ML** — Google Gemini API, LLM orchestration, RAG pipelines  
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranshuRaj1&theme=tokyonight&border_radius=7.6)
+## Competitive Programming
+
+**LeetCode Knight** — Rating 1882 · Top 4.9% globally · 1,223 problems solved  
+Rank 14,570 · 46 contests attended · Max streak 250+ days
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_1882-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rpranshu)
 
 ---
 
-# 📊 LeetCode:
-<p align="center">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/Rpranshu?theme=dark,unicorn" alt="sharmakavya1002"/></p>
+## Recognition
 
-
----
-
-[![Pranshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PranshuRaj1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- **1st place** — Firefox Expedition Programming Competition 2024, Firefox Club VIT
+- NPTEL Cloud Computing certification (Apr 2024)
 
 ---
 
+## Education
 
-📫 How to reach me:
+**Vellore Institute of Technology** — B.Tech Computer Science Engineering  
+Jul 2022 – Jul 2026 · CGPA: 8.56/10
 
-Feel free to connect with me on LinkedIn or Twitter. I'm always open to interesting conversations and collaboration opportunities.
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranshuraj-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/pranshuraj)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pranshuraj.info-000000?style=flat&logo=vercel)](https://pranshuraj.info)
+[![Email](https://img.shields.io/badge/Email-rpranshu52@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rpranshu52@gmail.com)
