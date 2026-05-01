@@ -2,7 +2,7 @@
 
 Full-stack engineer who ships production systems. I build at the intersection of real-time infrastructure and AI tooling — WebRTC media servers, LLM orchestration pipelines, high-concurrency WebSocket backends.
 
-Currently finishing B.Tech CSE at VIT (2026). Open to roles in product engineering.
+Currently finishing B.Tech CSE at VIT (2026).
 
 ---
 
