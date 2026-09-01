@@ -1,8 +1,12 @@
 # Pranshu Raj
 
-Full-stack engineer who ships production systems. I build at the intersection of real-time infrastructure and AI tooling — WebRTC media servers, LLM orchestration pipelines, high-concurrency WebSocket backends.
+Software engineer building backend systems and production AI/LLM tooling. I work with TypeScript, Node.js, Cloudflare Workers, Hono, Neon Postgres, and Upstash Redis.
+
+[Portfolio](https://pranshuraj.vercel.app/)
 
 Currently finishing B.Tech CSE at VIT (2026).
+
+Flagship projects include [Parakh](https://github.com/PranshuRaj1/Parakh), an AI-powered GitHub pull request reviewer, and [IRA](https://github.com/PranshuRaj1/ira), a memory-augmented AI agent.
 
 ---
 
@@ -58,5 +62,5 @@ Jul 2022 – Jul 2026 · CGPA: 8.56/10
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranshuraj-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/pranshuraj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pranshuraj.info-000000?style=flat&logo=vercel)](https://pranshuraj.info)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pranshuraj.vercel.app-000000?style=flat&logo=vercel)](https://pranshuraj.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-rpranshu52@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rpranshu52@gmail.com)
